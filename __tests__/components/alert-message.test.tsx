@@ -26,7 +26,6 @@ describe("AlertMessage Component", () => {
     expect(wrapper.find('div[role="alert"]').hasClass("text-red-700")).toBe(true)
   })
 
-  // You can add more tests for other types, props, etc.
 })
 
 // To run tests (in your local terminal):
